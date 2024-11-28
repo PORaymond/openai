@@ -1,0 +1,3 @@
+[submodule "recipe-ai"]
+	path = recipe-ai
+	url = https://github.com/PORaymond/recipe-ai.git
